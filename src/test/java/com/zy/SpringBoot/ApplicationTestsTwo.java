@@ -24,9 +24,9 @@ public class ApplicationTestsTwo {
 	
 	@Test
 	public void test() throws Exception {
-		/*Assert.assertEquals("张三", entityOne.getName());
+		Assert.assertEquals("张三", entityOne.getName());
 		Assert.assertEquals("男", entityOne.getType());
-		Assert.assertEquals("张三是男的", entityOne.getPeople());*/
+		Assert.assertEquals("张三是男的", entityOne.getPeople());
 		
 		
 		log.info("随机数测试：");
